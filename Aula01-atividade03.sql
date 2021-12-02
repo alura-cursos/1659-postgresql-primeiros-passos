@@ -1,6 +1,0 @@
-CREATE DATABASE alura;
-
-CREATE DATABASE teste;
-
-DROP DATABASE teste;
-
